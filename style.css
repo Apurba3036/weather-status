@@ -1,0 +1,14 @@
+body{
+    padding: 10px;
+    background-image: url('https://images.pexels.com/photos/1431822/pexels-photo-1431822.jpeg?cs=srgb&dl=pexels-brett-sayles-1431822.jpg&fm=jpg');
+
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+.btn{
+    font-size: 16px;
+    font-weight: 500;
+    color: black;
+}
