@@ -18,7 +18,7 @@ const loadtemp=city=>{
 
 const displaytemp=data=>{
     const temp=document.getElementById('temperature')
-    console.log(data)
+    // console.log(data)
     temp.innerText=data.main.temp;
     const city=document.getElementById('cityname')
     city.innerText=data.name
